@@ -11,4 +11,3 @@ jobs:
     steps:
       - name: show the trigger
         run: echo "I'v have been trigered by a(n) ${{ github.event_name }} event."
-     ß
